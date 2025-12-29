@@ -3,10 +3,15 @@ const { Schema } = mongoose;
 
 const subscriptionSchema = new Schema(
   {
-    clerkUserId: {
+    userId: {
       type: String,
       required: true,
       index: true,
+    },
+
+    name: {
+      type: String,
+      required: true
     },
 
     amount: {
