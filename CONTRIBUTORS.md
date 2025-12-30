@@ -61,6 +61,9 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
+- **Name:** Vaishali ojha  
+  **GitHub:** https://github.com/nomen06  
+  **About:** Second year ECE student at IIIT Allahabad,exploring and learning
 - **Name:** Khushi Shorey
 - **GitHub:** https://github.com/khushishorey
 - **About:** Insanely Curious!
