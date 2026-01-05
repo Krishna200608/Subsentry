@@ -8,16 +8,18 @@ Week 3 is about turning the dashboard into a usable product interface. Compared 
 
 ## ✅ Issues Covered (Current)
 
-### Issue 8: Subscription Listing UI (Frontend/UI)
+### Issue 8: Subscription Listing UI (Frontend/UI) + Navbar [FOR MORE ENHANCED UI STRUCTURE]
 - Fetch subscription data from the GET API.
 - Show name, amount, billing cycle, category, and renewal date.
 - Clearly distinguish trial vs paid subscriptions.
 - Responsive layout for smaller screens.
+- More details on the exact Issue page
 
 ### Issue 9: Add Subscription Form UI (Frontend/Forms)
 - Controlled inputs with basic validation.
 - Clear labels and placeholders.
 - Submit to POST API without full page reload.
+- More details on the exact Issue page
 
 ## 📌 Structure
 
