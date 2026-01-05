@@ -190,3 +190,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Himansh Arora
 - **GitHub:** https://github.com/Humanshere 
 - **About:** IT-BI Second year at IIITA
+
+- **Name:** Ishan Raj Singh
+- **GitHub:** https://github.com/ishanrajsingh 
+- **About:** BTECH at Amity Noida
