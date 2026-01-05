@@ -206,3 +206,8 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Snehal Sanap  
 - **GitHub:** https://github.com/SnehalSanap0 
 - **About:** I am here to learn about open source contributions.
+
+- **Name:** Abhigyan Tiwari
+- **GitHub:** https://github.com/Abh-igyan
+- **About:** I am a 2nd year CSE student at NIT Silchar. I am a CP, DSA, ML and data science enthusiast and trying to learn new skills as well.
+  I need to be proficient enough in new skills and learn as much of open-source contrbution
