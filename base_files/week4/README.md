@@ -20,6 +20,18 @@ Week 4 is about turning raw subscription data into **meaningful insight**. The U
 - Aggregate yearly spend across subscriptions.
 - Keep logic clean and reusable from monthly math.
 
+---
+
+## 🤝 Credits (Merged PRs)
+
+| ✅ Issue | Focus Area | Contributors (PRs) |
+|---:|---|---|
+| **11** | Auth Landing Page (Competitive) | Krishna200608 (**#200**) |
+
+### 📝 Other Submissions (Pending/Not Merged)
+- Issue 12 (Monthly Spend): Chithra582 (**#198**) — pending review
+- Issue 13 (Yearly Spend): Chithra582 (**#199**) — pending review
+
 ## 📌 Structure
 
 - `client/` — UI layer (Week 3 baseline, ready for Week 4 upgrades).
